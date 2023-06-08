@@ -1,13 +1,13 @@
 #!/bin/sh
 
-# Luke's Auto Rice Boostrapping Script (LARBS)
+#Ethan's Auto Rice Boostrapping Script (LARBS)
 # by Luke Smith <luke@lukesmith.xyz>
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
-progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
+dotfilesrepo="https://github.com/EthanSmo2000/voidrice.git"
+progsfile="https://raw.githubusercontent.com/EthanSmo2000/LARBS/master/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
 export TERM=ansi
